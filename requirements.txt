@@ -1,0 +1,6 @@
+nltk
+matplotlib
+spacy
+streamlit
+pillow
+pytesseract
